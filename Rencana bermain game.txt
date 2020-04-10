@@ -1,0 +1,6 @@
+Rencana ngepush peringkat:
+1. Bermain di jam 22.30
+   * pakai hero
+2. Berhenti saat lelah
+   * Debugging
+
