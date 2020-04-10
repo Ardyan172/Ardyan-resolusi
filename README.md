@@ -1,0 +1,2 @@
+# Ardyan-resolusi
+Resolusi ardyan 
