@@ -2,5 +2,4 @@ Ardyan resol:
 * Konsisten belajar setiap malam
 * Setelah belajar Git dan Github lalu belajar CSS dan Javascript
 * Gabung dengan Codepolitan
-* Naik Legend
-* Naik mytic
+
